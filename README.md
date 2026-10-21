@@ -1,0 +1,2 @@
+# Awesome-Encrypted-Note-Taking
+
