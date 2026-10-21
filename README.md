@@ -9,7 +9,7 @@
 
 <!-- Badges Header -->
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Encrypted-Note-Taking?style=flat-square&logo=github&color=gold)](https://github.com/ishandutta2007/Awesome-Encrypted-Note-Taking/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Encrypted-Note-Taking?style=flat-square&logo=github&color=gold)](https://github.com/ishandutta2007/Awesome-Encrypted-Note-Taking/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Encrypted-Note-Taking?style=flat-square&logo=github&color=blue)](https://github.com/ishandutta2007/Awesome-Encrypted-Note-Taking/network/members)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Encrypted-Note-Taking/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
@@ -99,109 +99,109 @@ The following table provides a comprehensive evaluation of hosted note-taking pl
 The following curated open-source repositories represent the pinnacle of **auditable, local-first, self-hostable, and end-to-end encrypted** note-taking tools. 
 
 > [!TIP]  
-> The projects are sorted in **descending order by GitHub star count**. Click any star badge to inspect the real-time stargazers community!
+> The projects are sorted in **descending order by GitHub Stars_Count**. Click any Stars_Badge to inspect the real-time stargazers community!
 
 ---
 
-### 1. 🗂️ [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
+### 1. 🗂️ [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
 - **Primary Language:** Flutter / Rust / Dart
 - **License:** AGPL-3.0
 - **Architectural Highlights:** Open-source, local-first privacy-centric alternative to Notion. Built with a Rust core engine and Flutter UI, ensuring 100% data ownership on your local hard drive. Supports self-hosted synchronization with encrypted SQLite storage backends and native cross-platform offline editing.
 
 ---
 
-### 2. 🎨 [AFFiNE](https://github.com/toeverything/AFFiNE) [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
+### 2. 🎨 [AFFiNE](https://github.com/toeverything/AFFiNE) [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
 - **Primary Language:** TypeScript / Rust
 - **License:** MIT
 - **Architectural Highlights:** Privacy-first, local-first workspace merging docs, whiteboards, and database tables. Operates with Conflict-free Replicated Data Types (CRDTs), peer-to-peer sync protocols, and zero-knowledge client-side encryption options, ensuring server providers cannot read raw page blocks.
 
 ---
 
-### 3. 📝 [Memos](https://github.com/usememos/memos) [![GitHub stars](https://img.shields.io/github/stars/usememos/memos?style=social&color=white)](https://github.com/usememos/memos/stargazers)
+### 3. 📝 [Memos](https://github.com/usememos/memos) [![GitHub_Stars](https://img.shields.io/github/stars/usememos/memos?style=social&color=white)](https://github.com/usememos/memos/stargazers)
 - **Primary Language:** Go / TypeScript
 - **License:** MIT
 - **Architectural Highlights:** Lightweight, self-hosted privacy-first micro-blogging and memo engine. Markdown native with zero tracking. Can be hosted locally in a lightweight Docker container behind encrypted reverse proxies, SQLite with SQLCipher encryption, or private VPN tunnels.
 
 ---
 
-### 4. 📓 [Joplin](https://github.com/laurent22/joplin) [![GitHub stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers)
+### 4. 📓 [Joplin](https://github.com/laurent22/joplin) [![GitHub_Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers)
 - **Primary Language:** TypeScript / JavaScript
 - **License:** AGPL-3.0
 - **Architectural Highlights:** The classic open-source Markdown note-taking powerhouse. Full client-side End-to-End Encryption (AES-256-CBC) before syncing across Joplin Cloud, Nextcloud, WebDAV, Dropbox, or OneDrive. Features PDF annotations, Web Clipper, end-to-end encrypted note sharing, and geo-location tracking controls.
 
 ---
 
-### 5. 🧱 [SiYuan](https://github.com/siyuan-note/siyuan) [![GitHub stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=social&color=white)](https://github.com/siyuan-note/siyuan/stargazers)
+### 5. 🧱 [SiYuan](https://github.com/siyuan-note/siyuan) [![GitHub_Stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=social&color=white)](https://github.com/siyuan-note/siyuan/stargazers)
 - **Primary Language:** Go / TypeScript
 - **License:** AGPL-3.0
 - **Architectural Highlights:** Privacy-first, local-first personal knowledge management (PKM) system supporting granular block-level reference and bidirectionally linked graphs. Data is stored entirely locally in JSON/Markdown format with end-to-end cloud sync encryption and password-protected repository backups.
 
 ---
 
-### 6. 🌲 [Logseq](https://github.com/logseq/logseq) [![GitHub stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)
+### 6. 🌲 [Logseq](https://github.com/logseq/logseq) [![GitHub_Stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)
 - **Primary Language:** Clojure / ClojureScript
 - **License:** AGPL-3.0
 - **Architectural Highlights:** A privacy-first, local-first outliner and knowledge base with bidirectional linking, PDF annotations, and daily journal workflows. All notes live locally as plain-text Markdown or Org-mode files on your device. Enables Git version control sync with custom GPG encryption.
 
 ---
 
-### 7. 🌳 [Trilium Notes](https://github.com/TriliumNext/Trilium) [![GitHub stars](https://img.shields.io/github/stars/TriliumNext/Trilium?style=social&color=white)](https://github.com/TriliumNext/Trilium/stargazers)
+### 7. 🌳 [Trilium Notes](https://github.com/TriliumNext/Trilium) [![GitHub_Stars](https://img.shields.io/github/stars/TriliumNext/Trilium?style=social&color=white)](https://github.com/TriliumNext/Trilium/stargazers)
 - **Primary Language:** JavaScript
 - **License:** AGPL-3.0
 - **Architectural Highlights:** Hierarchical note-taking application designed for constructing large, deeply nested knowledge bases. Offers granular per-note encryption (using strong client passphrases), custom scripts, automated tree restructuring, and self-hosted server-to-desktop synchronization.
 
 ---
 
-### 8. 🧼 [Foam](https://github.com/foambubble/foam) [![GitHub stars](https://img.shields.io/github/stars/foambubble/foam?style=social&color=white)](https://github.com/foambubble/foam/stargazers)
+### 8. 🧼 [Foam](https://github.com/foambubble/foam) [![GitHub_Stars](https://img.shields.io/github/stars/foambubble/foam?style=social&color=white)](https://github.com/foambubble/foam/stargazers)
 - **Primary Language:** TypeScript
 - **License:** MIT
 - **Architectural Highlights:** Personal knowledge management and sharing system built on top of Visual Studio Code. Because it relies on standard Markdown files, users gain total file ownership and can pair repositories with Git-crypt, Keybase, or encrypted disk volumes for military-grade protection.
 
 ---
 
-### 9. 🛡️ [Notesnook](https://github.com/streetwriters/notesnook) [![GitHub stars](https://img.shields.io/github/stars/streetwriters/notesnook?style=social&color=white)](https://github.com/streetwriters/notesnook/stargazers)
+### 9. 🛡️ [Notesnook](https://github.com/streetwriters/notesnook) [![GitHub_Stars](https://img.shields.io/github/stars/streetwriters/notesnook?style=social&color=white)](https://github.com/streetwriters/notesnook/stargazers)
 - **Primary Language:** TypeScript / JavaScript
 - **License:** GPL-3.0
 - **Architectural Highlights:** 100% open-source, zero-knowledge private note taking app. Client-side encryption utilizes XChaCha20-Poly1305 and Argon2id. Features rich-text editing, attachments, reminders, password-locked vaults, and a self-hostable synchronization server.
 
 ---
 
-### 10. 🌐 [Anytype](https://github.com/anyproto/anytype-ts) [![GitHub stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=social&color=white)](https://github.com/anyproto/anytype-ts/stargazers)
+### 10. 🌐 [Anytype](https://github.com/anyproto/anytype-ts) [![GitHub_Stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=social&color=white)](https://github.com/anyproto/anytype-ts/stargazers)
 - **Primary Language:** TypeScript / Go
 - **License:** Any Source Available License (Open Code)
 - **Architectural Highlights:** Local-first, decentralized, P2P encrypted workspace operating on the Any-Sync protocol. Built with block-level encryption, IPFS-inspired distributed structures, and zero-knowledge identity based on cryptographic seed phrases.
 
 ---
 
-### 11. 🧠 [Reor](https://github.com/reorproject/reor) [![GitHub stars](https://img.shields.io/github/stars/reorproject/reor?style=social&color=white)](https://github.com/reorproject/reor/stargazers)
+### 11. 🧠 [Reor](https://github.com/reorproject/reor) [![GitHub_Stars](https://img.shields.io/github/stars/reorproject/reor?style=social&color=white)](https://github.com/reorproject/reor/stargazers)
 - **Primary Language:** TypeScript
 - **License:** GPL-3.0
 - **Architectural Highlights:** AI-powered desktop note-taking app that is completely local-first and privacy-focused. Runs local LLMs (via Ollama or Llama.cpp) directly on your device. Generates vector embeddings for your notes locally without ever sending sensitive writing to third-party cloud APIs.
 
 ---
 
-### 12. 🌲 [Dendron](https://github.com/dendronhq/dendron) [![GitHub stars](https://img.shields.io/github/stars/dendronhq/dendron?style=social&color=white)](https://github.com/dendronhq/dendron/stargazers)
+### 12. 🌲 [Dendron](https://github.com/dendronhq/dendron) [![GitHub_Stars](https://img.shields.io/github/stars/dendronhq/dendron?style=social&color=white)](https://github.com/dendronhq/dendron/stargazers)
 - **Primary Language:** TypeScript
 - **License:** AGPL-3.0
 - **Architectural Highlights:** Local-first, hierarchical Markdown-based personal knowledge base built as a VS Code extension. Leverages schema-based hierarchy, backlinks, and plain text files. Works seamlessly with git-crypt, VeraCrypt, or disk-level BitLocker/LUKS encryption.
 
 ---
 
-### 13. 🔐 [Standard Notes](https://github.com/standardnotes/app) [![GitHub stars](https://img.shields.io/github/stars/standardnotes/app?style=social&color=white)](https://github.com/standardnotes/app/stargazers)
+### 13. 🔐 [Standard Notes](https://github.com/standardnotes/app) [![GitHub_Stars](https://img.shields.io/github/stars/standardnotes/app?style=social&color=white)](https://github.com/standardnotes/app/stargazers)
 - **Primary Language:** TypeScript
 - **License:** AGPL-3.0
 - **Architectural Highlights:** The pioneer and standard-bearer of open-source zero-knowledge note-taking. Audited cryptographic protocols with XChaCha20-Poly1305 encryption. Features open-source client apps across all operating systems and a fully self-hostable backend sync server.
 
 ---
 
-### 14. ⚡ [SilverBullet](https://github.com/silverbulletmd/silverbullet) [![GitHub stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers)
+### 14. ⚡ [SilverBullet](https://github.com/silverbulletmd/silverbullet) [![GitHub_Stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers)
 - **Primary Language:** TypeScript
 - **License:** MIT
 - **Architectural Highlights:** Extensible, local-first personal knowledge management system written in TypeScript. Notes are saved as pure Markdown files on your own filesystem. Can be self-hosted on encrypted hardware or accessed as an offline-first progressive web application (PWA).
 
 ---
 
-### 15. 📷 [Cryptee Web Client](https://github.com/cryptee/web-client) [![GitHub stars](https://img.shields.io/github/stars/cryptee/web-client?style=social&color=white)](https://github.com/cryptee/web-client/stargazers)
+### 15. 📷 [Cryptee Web Client](https://github.com/cryptee/web-client) [![GitHub_Stars](https://img.shields.io/github/stars/cryptee/web-client?style=social&color=white)](https://github.com/cryptee/web-client/stargazers)
 - **Primary Language:** JavaScript / CSS
 - **License:** GPL-3.0
 - **Architectural Highlights:** Open-source progressive web app (PWA) client for Cryptee's zero-knowledge encrypted notes and photo storage service. Implements client-side AES-256-GCM encryption with ghost albums, zero metadata logging, and strict air-gapped security models.
@@ -231,7 +231,7 @@ We welcome contributions from developers, researchers, and privacy advocates wor
 3. ✏️ **Make Your Additions**:
    - Ensure open-source projects have a public repository, verifiable license, and active development.
    - For SaaS tools, follow our tabular format: provide parent company valuation/size, encryption architecture, exact starting paid pricing, and specific free tier limits.
-   - Add the social star badge linking to the repo's stargazers page.
+   - Add the social Stars_Badge linking to the repo's stargazers page.
 4. 🧪 **Validate Formatting**: Ensure clean Markdown, alphabetical or sorted consistency, and proper links.
 5. 🚀 **Submit a Pull Request**: Provide a concise summary of the addition and cryptographic properties.
 
