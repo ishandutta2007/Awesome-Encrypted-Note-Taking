@@ -15,6 +15,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Privacy First](https://img.shields.io/badge/Privacy-Zero--Knowledge-blue?style=flat-square&logo=shield)](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 [![Encryption](https://img.shields.io/badge/Crypto-AES--256%20%7C%20XChaCha20-purple?style=flat-square&logo=lock)](https://en.wikipedia.org/wiki/End-to-end_encryption)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
   <strong>Curated directory of End-to-End Encrypted (E2EE), Zero-Knowledge, Local-First, and Privacy-Focused Note Management Ecosystems.</strong>
@@ -24,8 +25,9 @@
   <a href="#-sector-overview--market-dynamics">📈 Sector Overview</a> •
   <a href="#-saashosted-platforms-comparison">☁️ SaaS Platforms</a> •
   <a href="#-open-source-github-projects">💻 Open-Source Repos</a> •
-  <a href="#-key-cryptographic-concepts">🔑 Security Concepts</a> •
-  <a href="#-how-to-contribute">🤝 Contribute</a>
+  <a href="#-key-cryptographic-concepts--glossary">🔑 Security Concepts</a> •
+  <a href="#-how-to-contribute">🤝 Contribute</a> •
+  <a href="#-support--sponsoring">💖 Support</a>
 </p>
 
 </div>
@@ -52,6 +54,8 @@ Whether you are looking for **End-to-End Encryption (E2EE)**, **Zero-Knowledge A
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🔑 Key Cryptographic Concepts & Glossary](#-key-cryptographic-concepts--glossary)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsoring](#-support--sponsoring)
+- [🌟 Star History](#--star-history)
 - [⚖️ Disclaimer & Security Advisory](#️-disclaimer--security-advisory)
 
 ---
@@ -230,6 +234,28 @@ We welcome contributions from developers, researchers, and privacy advocates wor
    - Add the social star badge linking to the repo's stargazers page.
 4. 🧪 **Validate Formatting**: Ensure clean Markdown, alphabetical or sorted consistency, and proper links.
 5. 🚀 **Submit a Pull Request**: Provide a concise summary of the addition and cryptographic properties.
+
+---
+
+## 💖 Support & Sponsoring
+
+A huge thank you to everyone in the open-source and privacy communities supporting this project! If this directory has helped you find the right encrypted note-taking app or evaluate zero-knowledge architectures, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover secure note-taking tools.
+- 🍴 **Fork and share** the project with your friends, colleagues, and privacy advocates.
+- ☕ **Buy me a coffee**: Support ongoing maintenance and security research directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<div align="center">
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+</div>
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Encrypted-Note-Taking&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Encrypted-Note-Taking&type=date&legend=top-left)
 
 ---
 
